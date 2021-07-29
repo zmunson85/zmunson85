@@ -12,5 +12,7 @@
  
 </p>
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://icons8.com/preloaders/preloaders/183/Linkedin%20logo-128.gif)
+Format: ![Alt Text](https://icons8.com/preloaders/preloaders/183/Linkedin%20logo-128.gif)
+![GitHub Logo](https://1.bp.blogspot.com/-Kfzv-OGWwaM/Xc8JCdUW5II/AAAAAAAELgo/Sa0YQoPh5bkzSSV4bdULqv5mc4mwZkjgQCLcBGAsYHQ/s1600/giphy.gif)
+Format: ![Alt Text](https://1.bp.blogspot.com/-Kfzv-OGWwaM/Xc8JCdUW5II/AAAAAAAELgo/Sa0YQoPh5bkzSSV4bdULqv5mc4mwZkjgQCLcBGAsYHQ/s1600/giphy.gif)
