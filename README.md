@@ -1,5 +1,5 @@
 <p align="background">
-  <img src="gitRMimage.png" height ="400"width="800" title="hover text">
+  <img src="gitRMimage.png" height ="400"width="100%" title="hover text">
 </p>
 
 <h3 align="left">Connect with me:</h3>
