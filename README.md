@@ -6,3 +6,10 @@
 ~~~
 <h6 align="right">Contact Me</h6>
 <p align="right">📧 to zmunson85@gmail.com</p>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
