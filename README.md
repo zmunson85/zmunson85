@@ -7,6 +7,7 @@
   <img src="" height ="400"width="1000" title="hover text">
 </p>
 <p align="center">
+  ![GitHub Logo](/images/https://1.bp.blogspot.com/-Kfzv-OGWwaM/Xc8JCdUW5II/AAAAAAAELgo/Sa0YQoPh5bkzSSV4bdULqv5mc4mwZkjgQCLcBGAsYHQ/s1600/giphy.gif)
   <img src="https://1.bp.blogspot.com/-Kfzv-OGWwaM/Xc8JCdUW5II/AAAAAAAELgo/Sa0YQoPh5bkzSSV4bdULqv5mc4mwZkjgQCLcBGAsYHQ/s1600/giphy.gif" height ="100"width="100" title="hover text">
 </p>
 
