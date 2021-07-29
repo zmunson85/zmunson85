@@ -3,6 +3,11 @@
 </p>
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
+- 🔭 I’m currently working on [Angular/Mean Course](https://github.com/zmunson85/AngularPractice)
+
+- 🌱 I’m currently learning **Mean Stack**
+
+- ⚡ Fun fact **You will sleep 1/3 of your life away!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmunson85&label=Profile%20views&color=0e75b6&style=flat" alt="zmunson85" /> </p>
 
