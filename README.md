@@ -8,7 +8,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zmunson85&theme=tokyonight&show_icons=true_align="center")
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmunson85&" alt="zmunson85" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zmunson85&" alt="zmunson85" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
