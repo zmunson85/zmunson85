@@ -1,7 +1,9 @@
 <p align="background">
   <img src="gitRMimage.png" height ="400"width="100%" title="hover text">
 </p>
+<h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmunson85&label=Profile%20views&color=0e75b6&style=flat" alt="zmunson85" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmunson85&show_icons=true&locale=en&layout=compact" alt="zmunson85" /></p>
 
