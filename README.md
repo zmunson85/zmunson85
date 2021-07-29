@@ -19,3 +19,4 @@
 
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=zmunson85)](https://github.com/zmunson85/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zmunson85&theme=tokyonight&show_icons=true_align="center")
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmunson85&" alt="zmunson85" /></p>
