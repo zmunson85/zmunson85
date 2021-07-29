@@ -1,6 +1,7 @@
 <p align="background">
   <img src="gitRMimage.png" height ="400"width="100%" title="hover text">
 </p>
+<h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmunson85&label=Profile%20views&color=0e75b6&style=flat" alt="zmunson85" /> </p>
