@@ -7,7 +7,7 @@
 <h1 align="center"> 👋 Hello All, I am Zach. Becoming a Software Developer has been a great journey so far and I like where things are going. Follow me, feel free to offer any suggestions or pointers, you can follow me and star some of projects if you like them. I love to learn and grow, please feel free to contact me via email if you have questions about a repo or possibly connect for a colab project. </h1>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zmunson85&theme=tokyonight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zmunson85&theme=tokyonight&show_icons=true,<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zmunson85&" alt="zmunson85" /></p> )
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zmunson85&" alt="zmunson85" /></p>
 
 
