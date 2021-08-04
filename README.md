@@ -10,7 +10,7 @@
 
 ⚡ Fun fact **You will sleep 1/3 of your life away!**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmunson85&show_icons=true&locale=en&layout=compact" alt="zmunson85" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmunson85&show_icons=true&locale=en" alt="zmunson85" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmunson85&show_icons=true&locale=en&layout=compact" alt="zmunson85" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
