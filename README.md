@@ -21,7 +21,7 @@
 <p><a href="https://www.buymeacoffee.com/zmunson85"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zmunson85" /></a></p><br><br>
     </div>
     <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/zachary munson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary munson" height="30" width="40" /></a>
-<a href="https://discord.gg/Zmunson#8672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zmunson#8672" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zachary munson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary munson" height="50" width="50" /></a>
+<a href="https://discord.gg/Zmunson#8672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zmunson#8672" height="50" width="50" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmunson85&label=Profile%20views&color=0e75b6&style=flat" alt="zmunson85" width="35%" /> </p>
 
