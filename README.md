@@ -14,7 +14,7 @@
 
 
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/zachary munson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary munson" height="30" width="40" /></a>
 <a href="https://discord.gg/Zmunson#8672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zmunson#8672" height="30" width="40" /></a>
