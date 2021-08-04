@@ -2,8 +2,10 @@
   <img src="gitRMimage.png" height ="400"width="100%" title="hover text">
 </p>
 <h1 align="center">Hi 👋, I'm Zach</h1>
+
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
-<br>
+
+
 🔭 I’m currently working on [Angular/Mean Course](https://github.com/zmunson85/AngularPractice)
 
 🌱 I’m currently learning **Mean Stack**
