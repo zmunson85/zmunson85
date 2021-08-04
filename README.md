@@ -9,10 +9,13 @@
 🌱 I’m currently learning **Mean Stack**
 
 ⚡ Fun fact **You will sleep 1/3 of your life away!**
+ paragraph line 1
 
+ paragraph line 2
+ paragraph line 3
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zmunson85&show_icons=true&locale=en" alt="zmunson85" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmunson85&show_icons=true&locale=en&layout=compact" alt="zmunson85" /></p>
 
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zachary munson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary munson" height="30" width="40" /></a>
