@@ -28,8 +28,6 @@
   
 * * *
  
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zmunson85"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zmunson85" /></a></p><br><br>
     </div>
     <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/zachary munson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary munson" height="50" width="50" /></a>
