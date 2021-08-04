@@ -13,10 +13,11 @@
 ⚡ Fun fact **You will sleep 1/3 of your life away!**
  ***
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zmunson85&show_icons=true&locale=en" alt="zmunson85" height="250" width="50%" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmunson85&show_icons=true&locale=en&layout=compact" alt="zmunson85" height="250" width="41%" /></p>
-<h3>Git Up Stats:</h3>
+
   
   ***
   
+  <h3>Git Up Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmunson85" alt="zmunson85" width="100%"/></a> </p>
 
 - - -
