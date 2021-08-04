@@ -1,5 +1,5 @@
 <p align="background">
-  <img src="gitRMimage.png" height ="400"width="100%" title="hover text">
+  <img src="gitRMimage.png" height ="40%"width="100%" title="hover text">
 </p>
 <h1 align="center">Hi 👋, I'm Zach</h1>
 
