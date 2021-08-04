@@ -3,11 +3,12 @@
 </p>
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
-- 🔭 I’m currently working on [Angular/Mean Course](https://github.com/zmunson85/AngularPractice)
+<br>
+🔭 I’m currently working on [Angular/Mean Course](https://github.com/zmunson85/AngularPractice)
 
-- 🌱 I’m currently learning **Mean Stack**
+🌱 I’m currently learning **Mean Stack**
 
-- ⚡ Fun fact **You will sleep 1/3 of your life away!**
+⚡ Fun fact **You will sleep 1/3 of your life away!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmunson85&show_icons=true&locale=en&layout=compact" alt="zmunson85" /></p>
 
