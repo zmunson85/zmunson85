@@ -6,9 +6,9 @@
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
 
 
-🔭 I’m currently working on [MERN APP](https://github.com/zmunson85/TheDevConnection)
+🔭 I’m currently working on [Social Networking App](https://github.com/zmunson85/TheDevConnection)
 
-🌱 I’m currently learning **Mean Stack**
+🌱 I’m currently working in **Mern Stack**
 
 ⚡ Fun fact **You will sleep 1/3 of your life away!**
  ***
