@@ -6,7 +6,7 @@
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
 
 
-🔭 I’m currently working on [Angular/Mean Course](https://github.com/zmunson85/AngularPractice)
+🔭 I’m currently working on [MERN APP](https://github.com/zmunson85/TheDevConnection)
 
 🌱 I’m currently learning **Mean Stack**
 
