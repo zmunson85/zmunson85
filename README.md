@@ -22,25 +22,7 @@
 
 - - -
 
-<svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="289" height="259">
-      <g transform="translate(-18.62506103515625, -41.4375)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" stroke-width="7" d="M171.5,166.98436667702413 L184.5312666459517,171.5 L171.5,261.1719665527344 L81.82803344726562,171.5 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis " x1="77.82803344726562" y1="171.5" x2="265.1719665527344" y2="171.5"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis " x1="171.5" y1="77.82803344726562" x2="171.5" y2="265.1719665527344"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="171.5" cy="164.98436667702413"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="186.5312666459517" cy="171.5"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="171.5" cy="263.1719665527344"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="79.82803344726562" cy="171.5"></ellipse>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top" dx="171.5" dy="52.35928440093994">4%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top" dx="171.5" dy="67.82803344726562">Code review</text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right" dy="169.22660756111145" dx="284.3360061645508">8%</text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right" dy="184.69535660743713" dx="275.1719665527344">Issues</text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom" dx="171.5" dy="281.3595561981201">44%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom" dx="171.5" dy="296.8283052444458">Pull requests</text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="169.22660756111145" dx="51.9764928817749">44%</text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="184.69535660743713" dx="65.82803344726562">Commits</text>
-      </g>
-    </svg>
+
 
 <div class="footer">
         <h3 align="left">Programming Languages:</h3>
