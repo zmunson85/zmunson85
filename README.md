@@ -6,7 +6,7 @@
 <h3 align="center">A passionate full stack developer from Denver, Colorado</h3>
 
 
-🔭 I’m currently working on [Social Networking App](https://github.com/zmunson85/TheDevConnection)
+🔭 I’m currently working on [List My Contacts](https://github.com/zmunson85/Cap5)
 
 🌱 I’m currently working in **Mern Stack**
 
